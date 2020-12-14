@@ -181,6 +181,15 @@
 },
 {
 "name":"",
+"url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/IMG_6653.jpg",
+"date":"Dec. 2020",
+"location":"Miami",
+"description":"",
+"class":"",
+"pinned":"true"
+},
+{
+"name":"",
 "url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/20200112100023.jpg",
 "date":"01/12/2020",
 "location":"Miami",
@@ -193,15 +202,6 @@
 "url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/1.jpg",
 "date":"",
 "location":"Miami Dade",
-"description":"",
-"class":"",
-"pinned":"true"
-},
-{
-"name":"",
-"url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/IMG_6653.jpg",
-"date":"Dec. 2020",
-"location":"Miami",
 "description":"",
 "class":"",
 "pinned":"true"
