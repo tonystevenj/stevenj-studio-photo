@@ -114,7 +114,7 @@
 "location":"New York",
 "description":"",
 "class":"",
-"pinned":"true"
+"pinned":"false"
 },
 {
 "name":"",
@@ -193,6 +193,15 @@
 "url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/1.jpg",
 "date":"",
 "location":"Miami Dade",
+"description":"",
+"class":"",
+"pinned":"true"
+},
+{
+"name":"",
+"url":"https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master/portfolio/IMG_9574.JPG",
+"date":"Dec 2020",
+"location":"Shenandoah National Park",
 "description":"",
 "class":"",
 "pinned":"true"
