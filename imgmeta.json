@@ -1,0 +1,332 @@
+{
+  "base-url": "https://raw.githubusercontent.com/tonystevenj/stevenj-studio-photo/master",
+  "preview": "/preview.jpg",
+  "bio": [
+    {
+      "name": "me",
+      "url": "/bio/GreatSMK_me.jpeg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "girl",
+      "url": "/bio/GreatSMK_gf.jpeg",
+      "date": "Jan. 2021",
+      "location": "Great Smoky Mountains",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    }
+  ],
+  "carousel": [
+    {
+      "name": "IMG_3054",
+      "url": "/carousel/IMG_3054.jpg",
+      "date": "Jun, 2019",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    },
+    {
+      "name": "4.jpg",
+      "url": "/master/carousel/4.jpg",
+      "date": "",
+      "location": "New York City",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    },
+    {
+      "name": "1.jpg",
+      "url": "/master/carousel/1.jpg",
+      "date": "",
+      "location": "Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    }
+  ],
+  "carousel-m": [
+    {
+      "name": "IMG_2685-m.jpg",
+      "url": "/carousel-m/IMG_2685-m.jpg",
+      "date": "",
+      "location": "New York City",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    },
+    {
+      "name": "steven-m",
+      "url": "/carousel-m/steven-m.jpg",
+      "date": "Jun, 2019",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    },
+    {
+      "name": "5.jpg",
+      "url": "/carousel-m/5-m.jpg",
+      "date": "",
+      "location": "Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "8.jpg",
+      "url": "/portfolio/8.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "7.jpg",
+      "url": "/portfolio/7.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    },
+    {
+      "name": "5.jpg",
+      "url": "/portfolio/5.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/2.jpg",
+      "date": "",
+      "location": "Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/03.jpg",
+      "date": "",
+      "location": "Chengdu, China",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_2370.jpg",
+      "date": "",
+      "location": "Hemingway Home, Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_2810.jpg",
+      "date": "",
+      "location": "Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_2992.jpg",
+      "date": "",
+      "location": "Key West",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_3054.jpg",
+      "date": "",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_3791.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_3894.JPG",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_3975.JPG",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_3986.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_4038.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_4073.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_4291.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_4868.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_4903.jpg",
+      "date": "Dec. 2018",
+      "location": "New York",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/20200112100016.jpg",
+      "date": "01/12/2020",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_2685-1080.jpg",
+      "date": "01/20/2019",
+      "location": "Key West, FL",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "false"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_6653.jpg",
+      "date": "Dec. 2020",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/1.jpg",
+      "date": "",
+      "location": "Miami Dade",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/IMG_9574.JPG",
+      "date": "Dec 2020",
+      "location": "Shenandoah National Park",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    },
+    {
+      "name": "",
+      "url": "/portfolio/20200112100023.jpg",
+      "date": "01/12/2020",
+      "location": "Miami",
+      "description": "",
+      "class": "",
+      "labels": [],
+      "pinned": "true"
+    }
+  ]
+}
